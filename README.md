@@ -1,4 +1,4 @@
-#TRADITINAL RAG PIPELINE 
+##TRADITINAL RAG PIPELINE 
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline for working with PDFs and text files. It uses:
 
